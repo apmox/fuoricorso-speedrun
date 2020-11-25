@@ -6,8 +6,8 @@ Repo con appunti
 Obiettivo: scelta dei materiali e scelta del processo produttivo.
 
 ### Materiali metallici
-- (Lezione 2)[Lezione_02.md]
-- (Lezione 3)[Lezione_03.md]
+- [Lezione 2](Lezione02.md)
+- [Lezione 3](Lezione03.md)
 
 ### Tribologia
 
