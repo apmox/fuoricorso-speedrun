@@ -28,8 +28,6 @@ Kalpakjian chp. 2
 
 #### Prove meccaniche
 - Test di Trazione
-- Test di compressione
-- Test di torsione
 
 
 ## Domande
