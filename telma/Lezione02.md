@@ -27,7 +27,7 @@ Kalpakjian chp. 2
 - Curve di tensione a caldo
 
 #### Prove meccaniche
-- Test di Trazione
+- Prova di Trazione
 
 
 ## Domande
@@ -47,7 +47,7 @@ Kalpakjian chp. 2
 - Come sono legate deformazione ingegneristica e deformazione reale?
 - Quale tra deformazione reale e ingegneristica è simmetrica, quale additiva?
 - Quando e perché la deformazione ingegneristica ha utilità? (R: In campo elastico)
-- Quando ho costanza del volume?
+- Quando ho costanza del volume? (r: in campo plastico, ma solo fino alla nucleazione o rottura)
 - Come stimo la deformazione reale sapendo la dimensione del diamero di un provino?
 - Come stimo la sezione del provino sapendo la lungezza di deformazione?
 - Come calcolo la tensione reale per un test di trazione reale?
