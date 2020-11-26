@@ -15,7 +15,6 @@
 - Lavoro di deformazione
 - Calore di deformazione
 
-
 ## Domande
 - A cosa bisogna porre attenzione per l'attendibilità di una prova di compressione?
 - Cos'è il fenomeno di barrelling? Qual è il problema principale del barrelling?
@@ -23,7 +22,6 @@
 - Quale tra trazione e compressione riesce a raggiungere tassi di deformazione più alti? Perché? (r: trazione ha necking compressione no)
 - Perché è importante la prova di compressione? (r: permette di caratterizzare il comportamento di un materiale in uno stato di tensione simile alla maggior parte dei processi di lavorazione massiva)
 - Qual è la condizione che garantisce validità ad una prova di compressione? (r: uniformità di temperatura)
-- Quali lubrificatori vengono utilizzati generalmente? (r: grafite a caldo, teflon a freddo)
 
 - Quali sono le grandezze studiate in una prova di torsione?
 - Come sono correlabili i risultati di una prova di torsione alle proprietà del materiale studiato? (r: Teoria Fields / Backhofern)
@@ -56,4 +54,3 @@
 - Quali energie specifiche compongono l'energia specifica di deformazione totale? (r: en. di def. sp. ideale, dovuta ad attrito (per superare l'attrito di interfaccia) e ridondante (dovuta all'aumento di entropia delle strutture interne))
 - Come si definisce l'efficienza del processo?
 - Come si stima la differenza di temperatura che il corpo subisce dalla lavorazione? (r: utot/rho c)
-- 
