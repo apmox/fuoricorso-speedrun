@@ -9,7 +9,7 @@
 	- Caratteristiche lubrificanti
 	- Tipi di lubrificanti
 	
-- Processo di colata (Fonderia)
+- Fonderia
 	- Metalli puri
 	- Leghe
 	- Shrinkage
@@ -34,9 +34,9 @@
 - Come si comporta una lega dal suo stato liquido al suo stato solido? (Curve Temperatura composizione, liquidus, solidus)
 - Cos'è il fenomeno di shrinkage? (Gradiente termico con pareti, esterno comincia a solidificare verso l'interno, e si forma cavità di ritiro)
 - Come si rimedia alla contrazione nel processo di fonderia e secondo quale principio fisico? (R: Impiego di materozze (risers), cieca (side) o a cielo aperto (top riser), il liquido metallico riempie colonne adiacenti al canale di alimentazione, per il principio di Bernoulli)
-- Qual è il percordo del liquido nel processo di fonderia? (R: Bacino di colata -> Canale di colata -> Canale di distribuzione -> Attacco di colata -> Forma)
+- Qual è il percorso del liquido nel processo di fonderia? (R: Bacino di colata -> Canale di colata -> Canale di distribuzione -> Attacco di colata -> Forma)
 - Dove vanno inserite le materozze (a cielo aperto)? (R: Nei punti in cui è prevista come ultima la solidificazione, in modo da evitare il cono di ritiro sul pezzo e spostarne l'effetto sulla materozza)
 - Quale effetto hanno le materozze sulle impurezze bassofondenti? (R: Essendo le ultime a solidificare spostano questo tipo di impurità al di fuori del pezzo e si manifestano nella materozza)
 - Con quali metodi individuo la posizione in cui inserire le materozze? (Metodo dei cerchi di Heuvers; metodo di solidificazione)
 - In cosa consiste il metodo dei cerchi di Heuvers? (Posiziono la materozza sul punto con cerchio maggiore inscritto nella seizone)
-- In cosa consiste il metodo del tempo di solidificazione? (Basato sulla legge di Chrovinov (Tempo di solidificazione proporz volume su area superficiale quadrati), valuto modulo termico (volume su area superficiale) di porzioni semplici del mio pezzo e posiziono la materozza nel punto con modulo termico maggiore)
+- In cosa consiste il metodo del tempo di solidificazione? (Basato sulla legge di Chvorinov (Tempo di solidificazione proporz volume su area superficiale quadrati), valuto modulo termico (volume su area superficiale) di porzioni semplici del mio pezzo e posiziono la materozza nel punto con modulo termico maggiore)
