@@ -1,4 +1,4 @@
-# Lezione 10
+﻿# Lezione 10
 ## Argomenti trattati
 - Macchine per forgiatura
 	- Presse meccaniche
@@ -25,6 +25,6 @@
 - Quali pezzi vengono generalmente realizzati con le presse a vite? (Pezzi in materiali aerospaziali o materiali con ridotta finestra di forgiabilità)
 - In quale categoria ricadono i magli? (Presse ad energia)
 
-- Quali sono i fattori di costo principali per il proxesso di forgiatura? (costo del materiale, costo di installazione, costo di realizzazione degli stampi, numero dei pezzi)
+- Quali sono i fattori di costo principali per il processo di forgiatura? (costo del materiale, costo di installazione, costo di realizzazione degli stampi, numero dei pezzi)
 
 - Perché il costo della forgiatura per un gran numero di pezzi è inferiore alla pressocolata? (In pressocolata devo aspettare che il pezzo si raffreddi per estrarlo dalla camera, mentre in forgiatura il pezzo può essere spostato)

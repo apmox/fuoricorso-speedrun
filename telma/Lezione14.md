@@ -2,7 +2,6 @@
 
 ## Esercizi
 - Applicazione estrusione a freddo `14,1:00:48-1:12:10`
-- Applicazione estrusione a caldo
 
 ## Argomenti trattati
 - Estrusione
