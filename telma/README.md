@@ -10,12 +10,12 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 - [Lezione 4](Lezione04.md)
 - [Lezione 5](Lezione05.md)
 
-## Processi di lavorazione massiva
-### Fonderia
+## Fonderia
 - [Lezione 5](Lezione05.md)
 - [Lezione 6](Lezione06.md)
 - [Lezione 7](Lezione07.md)
 
+## Processi di deformazione massiva
 ### Forgiatura
 - [Lezione 7](Lezione07.md)
 - [Lezione 8](Lezione08.md)
@@ -40,11 +40,12 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 
 ### Imbutitura
 
-## Asportazione da taglio
+## Meccanica di formazione del truciolo
 
-### Usura
+## Utensili da taglio
 
-### Finitura
+## Lavorazioni di asportazione di truciolo convenzionali
+
 
 ### Tornitura
 
