@@ -40,4 +40,3 @@
 - Come si tiene conto delle caratteristiche del materiale per valutare il ritorno elastico? (Relazione empirica che comprende R/T, Y ed E)
 - Come compenso il ritorno elastico? (Soprapiegatura, stando tuttavia attento al minimo raggio di piega; plasticizzazione della zona di piega stirando, con contropressione o scaldando)
 - Come si calcola la forza di massima piegatura? (Vedi formula `17,1:25:00`, costante tiene conto del processo di piegatura scelto)
-- 

@@ -34,7 +34,12 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 - [Lezione 15](Lezione15.md)
 
 ## Lavorazione Lamiera
+- [Lezione 16](Lezione16.md)
+### Taglio
+- [Lezione 16](Lezione16.md)
+
 ### Piegatura
+- [Lezione 17](Lezione17.md)
 
 ### Stiratura
 
