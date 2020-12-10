@@ -35,6 +35,7 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 
 ## Lavorazione Lamiera
 - [Lezione 16](Lezione16.md)
+
 ### Taglio
 - [Lezione 16](Lezione16.md)
 
@@ -42,14 +43,21 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 - [Lezione 17](Lezione17.md)
 
 ### Stiratura
+- [Lezione 18](Lezione18.md)
 
 ### Imbutitura
+- [Lezione 18](Lezione18.md)
 
-## Meccanica di formazione del truciolo
+### Formabilità
+- [Lezione 18](Lezione 18.md)
 
-## Utensili da taglio
 
-## Lavorazioni di asportazione di truciolo convenzionali
+## Truciolo
+### Meccanica di formazione del truciolo
+
+### Utensili da taglio
+
+### Lavorazioni di asportazione di truciolo convenzionali
 
 
 ### Tornitura
@@ -60,7 +68,7 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 
 ### Rettifica
 
-### Additive Manufacturing
+## Additive Manufacturing
 
 ### Introduzione ai polimeri
 
