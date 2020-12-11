@@ -11,7 +11,6 @@
 	- FLD (Forming limit diagram)
 	- Prova di Nakajima
 
-
 ## Domande
 - In cosa consiste il processo di stiratura? (Fissaggio meccanico delle estremita', punzone attua deformazione premendo sulla lamiera. La deformazione avviene a scapito dello spessore)
 - In quali contesti si utilizza il processo di stiratura? (Elevata estensione superficiale e spessore ridotto e piega poco profonda)
