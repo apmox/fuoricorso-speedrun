@@ -1,6 +1,8 @@
 # Tecnologie di Lavorazione dei Materiali Aerospaziali
 Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del processo produttivo.
 
+
+Parte 1 Bruschi
 ## Fondamenti
 ### Materiali metallici
 - [Lezione 2](Lezione02.md)
@@ -49,18 +51,24 @@ Obiettivo formativo: sapere come eseguire la scelta dei materiali e scelta del p
 - [Lezione 18](Lezione18.md)
 
 ### Formabilità
-- [Lezione 18](Lezione 18.md)
+- [Lezione 18](Lezione18.md)
 
+### Altre lavorazioni della lamiera
+- [Lezione 19](Lezione19.md)
 
-## Truciolo
+## Lavorazioni per asportazione di truciolo
 ### Meccanica di formazione del truciolo
+- [Lezione 19](Lezione19.md)
+- [Lezione 20](Lezione20.md)
+- [Lezione 21](Lezione21.md)
 
-### Utensili da taglio
-
-### Lavorazioni di asportazione di truciolo convenzionali
-
+### Usura degli utensili
+- [Lezione 22](Lezione22.md)
 
 ### Tornitura
+- [Lezione 22](Lezione22.md)
+- [Lezione 23](Lezione23.md)
+- [Lezione 24](Lezione24.md)
 
 ### Foratura
 
