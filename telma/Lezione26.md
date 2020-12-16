@@ -29,6 +29,5 @@
 - Quale tipo di materiali vengono introdotti per la rettifica? (Materiali abrasivi; convenzionali: alumina e carburo di silicio; superabrasivi: cbn e diamante)
 - Cosa comporta la friabilità dei materiali abrasivi in rettifica? (Il fatto che il materiale si autoaffili)
 - Cosa indica il grit number? (La quantità di filtri attraverso cui è passato il grano abrasivo)
-- Quali sono i tre componenti di una mola abrasiva? (Grani, legante poroso e superficie della mola)
-- Perché il legante è poroso nella mola di un processo di rettifica? (Evacuazione di trucioli e dissipazione termica)
-- 
+- Quali sono i tre componenti di una mola abrasiva? (Grani, legante, porosità)
+- Perché c'è porosità nella mola di un processo di rettifica? (Evacuazione di trucioli e dissipazione termica)
