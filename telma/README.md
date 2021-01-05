@@ -71,29 +71,40 @@ Parte 1 Bruschi
 - [Lezione 24](Lezione24.md)
 
 ### Foratura
+- [Lezione 25](Lezione25.md)
 
 ### Fresatura
+- [Lezione 25](Lezione25.md)
+
+### Economia delle lavorazioni per asportazione
+- [Lezione 26](Lezione26.md)
 
 ### Rettifica
+- [Lezione 27](Lezione27.md)
+
+## Lavorazioni non convenzionali
+- [Lezione 28](Lezione28.md)
+
+## Metallurgia delle polveri
+- [Lezione 29](Lezione29.md)
 
 ## Additive Manufacturing
+- [Lezione 30](Lezione30.md)
+- [Lezione 31](Lezione31.md)
+- [Lezione 32](Lezione32.md)
 
-### Introduzione ai polimeri
+## Polimeri
+- [Lezione 32](Lezione32.md)
+- [Lezione 33](Lezione33.md)
 
-### Classificazione materiali compositi
+## Materiali compositi
 
-### Differential scanning calorimetry
+### Fibre
+- [Lezione 33](Lezione33.md)
 
-### Stratificazione e cura in autoclave
+### Matrici
+- [Lezione 34](Lezione34.md)
 
-### Filament winding
-
-### Pultrusione
-
-### Resin transfer molding
-
-### RIFT
-
-### Compression molding
-
-### Injection molding
+### Fabbricazione materiali compositi
+- [Lezione 34](Lezione34.md)
+- [Lezione 35](Lezione35.md)
