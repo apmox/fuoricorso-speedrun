@@ -16,7 +16,7 @@ Il corso intende fornire allo studente le conoscenze di base sulle tecnologie di
 - Qual è la differenza tra produzione discreta e continua?
 - Cos'è il manufacturing o produzione manifatturiera?
 - Quali sono i materiali impiegati in campo ingegneristico?
-- Quali sono i criteri per la scelta dei materiali in campo ingegneristico?
+- Quali sono i criteri per la scelta dei materiali in campo ingegneristico? (Proprietà meccaniche, fisiche, chimiche. Composizione. Sensibilità delle proprietà meccaniche alle condizioni esterne)
 - Quali sono i criteri per la scelta del processo produttivo in campo ingegneristico?
-- Quali sono i fattori geometrici che influenzano la scelta del processo produttivo? (r: dimensioni minime, tolleranze geometriche, finitura superficiale)
-- Quali sono gli aspetti determinanti per un'azienda produttrice? (r: costo, volume e tempo)
+- Quali sono i fattori geometrici che influenzano la scelta del processo produttivo? (Dimensioni minime, tolleranze geometriche, finitura superficiale)
+- Quali sono gli aspetti determinanti per un'azienda produttrice? (Costo, volume e tempo)
