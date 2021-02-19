@@ -29,7 +29,7 @@
 - Come si rimedia al fenomeno di allungamento e snervamento nella lavorazione della lamiera? (Laminazione di pelle (skin rolling): lamiera viene leggermente lavorata e si blocca la microstruttura del materiale; attenzione, col tempo l'effetto svanisce)
 - Cos'è il difetto a buccia d'arancia? (Superficie puntinata perché bordo di grano è in rilievo rispetto corpo di grano: devo lavorare con dimensione di grano ridotta: max 100 micron)
 - Cos'è l'anisotropia normale e come si misura? (Si estrae un campione dalla lamiera a forma di I, e definisco l'indice di anisotropia di una certa direzione come rapporto tra deformazione reale in larghezza e deformazione reale dello spessore)
-- Come studio l'anisotropia in modo alternativo? (Applico la costanza del volume e misuro le grandezze più importanti del campione, lunghezza e larghezza)
+- Come studio l'anisotropia in modo alternativo? (Applico la costanza del volume e misuro le grandezze più importanti del campione, lunghezza e larghezza, per ricavare la deformazione reale in spessore)
 - Come si definisce l'anisotropia di una lamiera per tenere conto del processo di lavorazione? (Misuro anisotropia in 3 direzioni diverse, 0, 45 e 90 gradi, calcolo la media e la chiamo Anisotropia media)
 - Quali sono valori tipici di anisotropia? (Acciaio caldo 1, acciaio freddo 1.6, leghe zinco 0.5, leghe titanio 4)
 

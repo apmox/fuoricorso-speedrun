@@ -12,7 +12,7 @@
 		- VARTM
 		- RFI
 		- SCRIMP
-	
+
 ## Domande
 - Quali principali funzioni ha il vuoto nella tecnica di sacco a vuoto? (Eliminare aria tra le lamine; rimuovere gas intrappolati nel liquido della matrice; migliora l'adesione tra le lamine)
 - Quali sono gli strati di materiale utilizzati per la tecnica del sacco a vuoto? (Distaccante sotto e sopra il laminato;Peel ply; microformato; "assorbente" e aeratore; sacco per vuoto)

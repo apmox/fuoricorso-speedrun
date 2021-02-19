@@ -5,10 +5,11 @@
 	- Lavorazioni del bramma
 	- Lavorazioni della billetta
 	- Lavorazioni del blumo
-	
+
 	- Laminazione piana
 	- Meccanica di laminazione
 	- Collina di attrito
+	- Riduzione delle forze
 	- Forza di laminazione
 
 ## Domande
@@ -36,6 +37,6 @@
 - Qual è la configurazione meccanica della laminazione piana e quali sono le grandezze in gioco? ()
 - Cos'è il punto neutro? (Punto in cui ho inversione delle tensioni tangenziali d'attrito all'interfaccia, delimita zona di entrata e zona di uscita)
 - Come applico il metodo del concio alla laminazione piana?
-- Com'è fatta la collina dell'attrito nel caso della laminazione piana? (All'aumentare dell'attrito il punto neutro si sposta all'entrata, allaumentare del draft aumenta la pressione e l'area di contatto)
+- Com'è fatta la collina dell'attrito nel caso della laminazione piana? (All'aumentare dell'attrito il punto neutro si sposta all'entrata, all'aumentare del draft aumenta la pressione e l'area di contatto)
 - Quale stratagemma viene impiegato per ridurre le tensioni? (Tensione di tiro e controtiro, sommata alla compressione dei rulli, diminuisce la risposta del materiale alla compressione e abbassa la forza di laminazione richiesta)
-- Da cosa dipende la forza media di laminazione? (Superficie, pari a spessore per area di contatto, moltiplicata per la tensione piana media del materiale nell'intervallo tra i rulli, con un coefficiente correttivo per l'attrito)
+- Da cosa dipende la forza media di laminazione? (Superficie, pari a larghezza per area di contatto, moltiplicata per la tensione piana media del materiale nell'intervallo tra i rulli, con un coefficiente correttivo per l'attrito)

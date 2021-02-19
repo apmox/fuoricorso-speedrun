@@ -12,22 +12,23 @@
 	- Prova di Nakajima
 
 ## Domande
-- In cosa consiste il processo di stiratura? (Fissaggio meccanico delle estremita', punzone attua deformazione premendo sulla lamiera. La deformazione avviene a scapito dello spessore)
+- In cosa consiste il processo di stiratura? (Fissaggio meccanico delle estremità, punzone attua deformazione premendo sulla lamiera. La deformazione avviene a scapito dello spessore)
 - In quali contesti si utilizza il processo di stiratura? (Elevata estensione superficiale e spessore ridotto e piega poco profonda)
-- In cosa consiste il processo di imbutitura? (Lamiera lavorata con deformazione profonda. Stampo o matrice da' forma esterna, premilamiera tiene lamiera in posizione ma non la tiene ferma con attrito)
+- In cosa consiste il processo di imbutitura? (Lamiera lavorata con deformazione profonda. Stampo o matrice dà forma esterna, premilamiera tiene lamiera in posizione ma non la tiene ferma con attrito)
 - Quando mi trovo in condizioni di imbutitura pura? (Lo spessore rimane invariato nel materiale)
 - Cosa accade nella pratica industriale se si parla di imbutitura? (Stiratura dei lati, imbutitura della base)
 - Quali parametri interessano il processo di imbutitura? (Diametro del punzone, diametro dello stampo, gioco, spessore, diametro lamiera, forza del punzone, raggio di raccordo del punzone e dello stampo, lubrificazione)
 - Quali sono i vantaggi e gli svantaggi del processo di imbutitura? (Convenienti per produzioni di massa)
 - Quali sono gli stati tensionali in cui si trova il materiale nel processo di imbutitura sotto il premilamiera?
 - Quali sono gli stati tensionali in cui si trova il materiale nel processo di imbutitura ai lati del punzone?
-- Cosa accade se la pressione del premilamiera non e' ottimale? (Grinze se pressione troppo bassa, rottura se troppo alta)
+- Cosa accade se la pressione del premilamiera non è ottimale? (Grinze se pressione troppo bassa, rottura se troppo alta)
 - Come si calcola la massima forza di imbutitura? ()
-- Cosa rappresenta l'imbutibilita' di una lamiera? (Capacita' lamiera metallica di subire l'imbutitura senza incorrere in rottura delle pareti. Definita da Rapporto limite di imbutitura LDR, diametro iniziale semilavorato e diametro del punzone)
-- Che relazione sussiste tra LDR e anisotropia? (Relazione empirica lineare, retta lineare crescente. Alta anisotropia (maggiore di 1) corrisponde a buona imbutibilita' (titanio), alta anisotropia (minore di 1) corrisponde a cattiva imbutibilita' (zinco))
+- Che cos'è l'LDR? (Rapporto massimo tra diametro del semilavorato e del punzone)
+- Cosa rappresenta l'imbutibilità di una lamiera? (Capacità lamiera metallica di subire l'imbutitura senza incorrere in rottura delle pareti. Definita da Rapporto limite di imbutitura LDR)
+- Che relazione sussiste tra LDR e anisotropia? (Relazione empirica lineare, retta lineare crescente. Alta anisotropia (maggiore di 1) corrisponde a buona imbutibilità (titanio), alta anisotropia (minore di 1) corrisponde a cattiva imbutibilità (zinco))
 - Cosa rappresenta l'anisotropia planare? (Indice che prevede lo sviluppo di orecchie all'imbutitura, calcolata come (r0 + r90 - 2*r45)/2)
 - Come si defnisce la formabilità di una lamiera? (Capacità della lamiera di subire una deformazione senza incorrere in strizione o frattura)
-- Quali tipi di test posso realizzare per valutare la formabilità di un materiale? (Prova di tensione, prova a tazza, prova)
+- Quali tipi di test posso realizzare per valutare la formabilità di un materiale? (Prova di tensione, prova a tazza (Erichsen o Olson), prova)
 - In cosa consistono la prova Erichsen e l'indice di Erichsen? (Prova di stiratura normata)
 - In cosa consiste la prova di Swift e quale parametro la caratterizza? (Prova di imbutitura normata che dà LDR)
 - Cos'è il diagramma limite di formabilità? (FLD Forming limit diagram, indica i punti di deformazione della lamiera, ascissa tensione minore, ordinata tensione maggiore. Le porzioni di piano in cui posso lavorare la lamiera)

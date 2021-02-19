@@ -80,12 +80,17 @@
 	Inserisci risposta
 </details>
 <details>
-	<summary>Come sono legate deformazione ingegneristica e deformazione reale?</summary>
-	$$\varepsilon = \ln\left(\frac{l}{l_0}\right) = \ln\left(\frac{l_0 + \Delta l}{l_0}\right) = \ln(1+e)$$
+	<summary>
+	Come sono legate deformazione ingegneristica e deformazione reale?
+	</summary>
+	<img src="https://render.githubusercontent.com/render/math?math=%5Cvarepsilon%20%3D%20%5Cln%5Cleft(%5Cfrac%7Bl%7D%7Bl_0%7D%5Cright)%20%3D%20%5Cln%5Cleft(%5Cfrac%7Bl_0%20%2B%20%5CDelta%20l%7D%7Bl_0%7D%5Cright)%20%3D%20%5Cln(1%2Be)">
+	<!--$$\varepsilon = \ln\left(\frac{l}{l_0}\right) = \ln\left(\frac{l_0 + \Delta l}{l_0}\right) = \ln(1+e)$$-->
 </details>
 
 <details>
-	<summary>Quale tra deformazione reale e ingegneristica è simmetrica, quale additiva?</summary>
+	<summary>
+	Quale tra deformazione reale e ingegneristica è simmetrica, quale additiva?
+	</summary>
 	Deformazione reale è simmetrica, mentre deormazione ingegneristica no. Lo stesso vale per l'additività.
 </details>
 

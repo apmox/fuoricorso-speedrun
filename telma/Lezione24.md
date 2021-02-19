@@ -19,5 +19,5 @@
 - Cosa rappresenta il tempo di tornitura?
 - Come sono disposte le forze nella tornitura? (Come taglio ortogonale più una forza (taglio obliquo), detta di repulsione, uscente dal piano. La forza che fa lavoro è sempre la forza di taglio)
 - Come si sceglie la velocità di taglio per la tornitura? (In base alle caratteristiche meccaniche del materiale. Più il materiale è resistente più bassa sarà la velocità di taglio)
-- Quali metodi si possono applicate per il calcolo della potrenza in un'operazione di asportazione? (Energia specifica e MRR; Metodo della pressione specifica di taglio)
+- Quali metodi si possono applicare per il calcolo della potrenza in un'operazione di asportazione? (Energia specifica e MRR; Metodo della pressione specifica di taglio)
 - Cos'è la relazione di Kronenberg?

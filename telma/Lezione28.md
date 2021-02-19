@@ -11,7 +11,7 @@
 	- L. ad acqua
 	- L. ad acqua con abrasivo
 	- L. a ultrasuoni
-	
+
 ## Esercizi
 - Lavorazione elettrochimica
 
@@ -29,7 +29,7 @@
 - In cosa constiste la lavorazione elettrochimica? (Processo alla base del principio di dissoluzione anodica: pezzo è anodo, utensile catodo, viene fatto circolare elettrolita attraverso il quale passa corrente)
 - Per cosa viene utilizzata la lavorazione elettrochimica? (Per la realizzazione degli stampi di altri processi; palette per turbina in lega nickel con elettrodi di forme complesse; protesi)
 - Come si valuta l'MRR per le lavorazioni elettrochimiche? (Valenza, ; corrente elettrica; rendimento)
-- Come si valuta la velocità di avanzamento nelle lavorazioni elettrochimiche? 
+- Come si valuta la velocità di avanzamento nelle lavorazioni elettrochimiche?
 - Quali sono vantaggi e svantaggi delle lavorazioni elettrochimiche?
 
 - In cosa consiste la rettifica elettrochimica? ()
@@ -61,4 +61,4 @@
 
 - In cosa consiste la lavorazione ad ultrasuoni? (Mircoscalfiture tra particelle abrasive, circa 20kHz)
 
-- Per quali materiali si ura la lavorazione ad ultrasuoni? (Materiali molto abrasivi)
+- Per quali materiali si usa la lavorazione ad ultrasuoni? (Materiali molto abrasivi)

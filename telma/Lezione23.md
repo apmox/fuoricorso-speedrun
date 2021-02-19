@@ -23,7 +23,7 @@
 - Cosa accade all'aumentare della durezza a caldo e resistenza all'usura? (Diminuisce resistenza e tenacità)
 
 - Quali sono i principali aspetti dell'introduzione di un fluido lubrificante nel taglio? (Riduce attrito, abbassa temperature, aiuta a rimuovere i trucioli, previene corrosione, sono un gran rischio ambientale)
-- Come si applicanoi i fluidi da taglio? (Manualmente, nebbiolina (Minimum Quantity Lubrication), inondazione)
+- Come si applicano i fluidi da taglio? (Manualmente, nebbiolina (Minimum Quantity Lubrication), inondazione)
 - Verso quale materiale si sta muovendo l'industria? (Lubrificanti biodegradabili)
 - Cosa comporta usare l'azoto liquido come lubrificante? (Viene spruzzato sull'utensile, effettua una lavorazione completamente pulita, lavora a temperature molto basse e permette quindi elevate velocità, impiegato spesso in ambiente aerospaziale)
 
